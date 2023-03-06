@@ -1,0 +1,6 @@
+
+customer id :1,product:100,102,
+customer id :1,product:102,
+customer id :1,product,102
+customer id :1,product,100101
+customer id :8,product:100,101,
